@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding-top: 4px;
+
+}
+p{
+    margin: 24px 0 24px 0;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
